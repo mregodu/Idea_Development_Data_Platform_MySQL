@@ -1,0 +1,31 @@
+investor_id,company,contact_name,email,investment_area
+INV001,TechVentures Ltd.,John Smith,john.smith@techventures.com,Education
+INV002,FutureWave Capital,Sarah Johnson,sarah.johnson@futurewave.com,Education
+INV003,GreenSpark Investments,David Williams,david.williams@greenspark.com,Sustainability
+INV004,EduVenture Partners,Emily Brown,emily.brown@eduventure.com,Finance
+INV005,NextGen Innovations,Michael Davis,michael.davis@nextgen.com,Energy
+INV006,SolarTech Fund,Jessica Miller,jessica.miller@solartech.com,Sustainability
+INV007,AI Frontier Labs,James Wilson,james.wilson@ai.com,Energy
+INV008,BlueSky Technologies,Linda Moore,linda.moore@bluesky.com,Finance
+INV009,EcoPower Investments,Robert Taylor,robert.taylor@ecopower.com,Education
+INV010,Visionary Labs,Mary Anderson,mary.anderson@visionary.com,Finance
+INV011,SmartTech Ventures,William Thomas,william.thomas@smarttech.com,Healthcare
+INV012,BrightFuture Ventures,Patricia Jackson,patricia.jackson@brightfuture.com,Finance
+INV013,MedTech Capital,Charles Harris,charles.harris@medtech.com,Sustainability
+INV014,FinTech Partners,Helen Clark,helen.clark@fintech.com,Healthcare
+INV015,HealthTech Ventures,Joseph Lewis,joseph.lewis@healthtech.com,Education
+INV016,Global Robotics Fund,Nancy Robinson,nancy.robinson@global.com,Sustainability
+INV017,Cloud Innovations,Thomas Walker,thomas.walker@cloud.com,Energy
+INV018,EnergyTech Fund,Betty Hall,betty.hall@energytech.com,Finance
+INV019,Quantum Investments,Mark Allen,mark.allen@quantum.com,Education
+INV020,NextGen AI Fund,Dorothy Young,dorothy.young@nextgen.com,Healthcare
+INV021,AgriTech Capital,Paul King,paul.king@agritech.com,Healthcare
+INV022,Sustainable Growth Partners,Barbara Scott,barbara.scott@sustainable.com,Education
+INV023,FinancePlus Ventures,Andrew Green,andrew.green@financeplus.com,Sustainability
+INV024,InvestForward,Elizabeth Adams,elizabeth.adams@investforward.com,Education
+INV025,TechBridge Capital,Steven Baker,steven.baker@techbridge.com,Finance
+INV026,DigitalFuture Fund,Catherine Nelson,catherine.nelson@digitalfuture.com,Energy
+INV027,InnovateNow Labs,Brian Hill,brian.hill@innovatenow.com,Finance
+INV028,Global Impact Fund,Sandra Carter,sandra.carter@global.com,Finance
+INV029,SmartInvest Capital,George Mitchell,george.mitchell@smartinvest.com,Healthcare
+INV030,RenewableTech Partners,Deborah Perez,deborah.perez@renewabletech.com,Finance

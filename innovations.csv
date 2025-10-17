@@ -1,0 +1,121 @@
+idea_id,student_id,idea_title,category,submission_date,status
+I001,S018,AI-powered Learning Assistant for Students,Energy,2025-07-05,In Review
+I002,S035,IoT-enabled Smart Waste Management,Finance,2025-03-11,Submitted
+I003,S026,Blockchain for Healthcare Records,AI/ML,2024-10-11,Approved
+I004,S005,Predictive Analytics for Student Performance,Robotics,2025-03-06,Rejected
+I005,S016,Smart Home Automation System,Healthcare,2025-05-05,Rejected
+I006,S049,Automated Carbon Footprint Tracker,Energy,2025-03-12,Rejected
+I007,S049,AI-based Cybersecurity for Financial Institutions,Agriculture,2025-09-27,Submitted
+I008,S008,3D-Printed Prosthetics,Robotics,2024-10-15,Rejected
+I009,S013,Energy-Efficient Smart Lighting System,Education,2025-07-07,Rejected
+I010,S004,Blockchain-based Voting System,AI/ML,2024-11-04,Submitted
+I011,S014,Smart Parking System using IoT,Education,2025-08-30,Submitted
+I012,S032,AI-based Speech Therapy App,AI/ML,2024-12-02,Rejected
+I013,S002,Sustainable Farming using IoT Sensors,Healthcare,2025-03-26,Approved
+I014,S003,IoT-based Traffic Management System,Energy,2025-08-10,In Review
+I015,S005,AI-powered Personal Health Assistant,Energy,2024-10-22,Rejected
+I016,S029,AI-based Automated Essay Grading System,Education,2025-03-04,Submitted
+I017,S037,Smart Glasses for Visually Impaired,Finance,2025-01-20,Submitted
+I018,S036,AI-driven Medical Diagnosis Tool,Finance,2025-01-23,Rejected
+I019,S036,Predictive Maintenance for Industrial Machinery,Agriculture,2025-02-11,In Review
+I020,S002,Smart Campus Solutions,Agriculture,2025-03-02,Submitted
+I021,S026,Smart Wearables for Fitness Monitoring,Energy,2024-10-16,Rejected
+I022,S020,AI-based Fraud Detection in E-commerce,Robotics,2025-04-26,In Review
+I023,S033,Cloud-based Collaborative Platform for Research,Finance,2025-04-25,Approved
+I024,S030,Energy-Efficient Smart Buildings,Education,2025-04-25,Rejected
+I025,S020,AI-powered Resume Screening System,Energy,2025-03-30,In Review
+I026,S037,Remote Learning Solutions for Education,Agriculture,2025-07-30,Approved
+I027,S023,AI-enabled Personal Assistant for the Elderly,Education,2025-06-15,Submitted
+I028,S006,IoT-based Environmental Monitoring,Agriculture,2025-01-22,Submitted
+I029,S033,Automated Financial Planning Tool,Sustainability,2024-11-23,Submitted
+I030,S019,AI-powered Image Recognition for Healthcare,Robotics,2025-08-23,In Review
+I031,S034,Blockchain-based Supply Chain Management,Robotics,2025-09-30,In Review
+I032,S020,AI-powered Learning Assistant for Students,Agriculture,2025-07-23,Submitted
+I033,S017,IoT-enabled Smart Waste Management,Healthcare,2025-04-26,Approved
+I034,S040,Blockchain for Healthcare Records,Agriculture,2025-07-04,Approved
+I035,S035,Predictive Analytics for Student Performance,Robotics,2025-05-05,Approved
+I036,S003,Smart Home Automation System,Healthcare,2024-11-23,Submitted
+I037,S042,Automated Carbon Footprint Tracker,Agriculture,2025-07-30,Submitted
+I038,S018,AI-based Cybersecurity for Financial Institutions,Healthcare,2024-11-21,Submitted
+I039,S007,3D-Printed Prosthetics,Sustainability,2025-03-11,Submitted
+I040,S047,Energy-Efficient Smart Lighting System,Education,2025-09-18,Rejected
+I041,S027,Blockchain-based Voting System,Education,2025-03-06,Approved
+I042,S034,Smart Parking System using IoT,Sustainability,2025-07-02,Rejected
+I043,S030,AI-based Speech Therapy App,AI/ML,2025-09-30,Submitted
+I044,S002,Sustainable Farming using IoT Sensors,AI/ML,2024-12-13,Approved
+I045,S042,IoT-based Traffic Management System,Energy,2025-01-16,Submitted
+I046,S020,AI-powered Personal Health Assistant,Robotics,2025-06-23,Rejected
+I047,S011,AI-based Automated Essay Grading System,Education,2024-12-06,Approved
+I048,S018,Smart Glasses for Visually Impaired,Agriculture,2025-02-24,Rejected
+I049,S034,AI-driven Medical Diagnosis Tool,Healthcare,2025-03-11,Submitted
+I050,S043,Predictive Maintenance for Industrial Machinery,Robotics,2025-01-02,Submitted
+I051,S029,Smart Campus Solutions,Finance,2025-07-27,In Review
+I052,S005,Smart Wearables for Fitness Monitoring,Sustainability,2025-10-03,Approved
+I053,S025,AI-based Fraud Detection in E-commerce,Robotics,2024-10-12,Submitted
+I054,S017,Cloud-based Collaborative Platform for Research,Robotics,2024-12-15,Submitted
+I055,S032,Energy-Efficient Smart Buildings,Energy,2025-02-13,Submitted
+I056,S026,AI-powered Resume Screening System,Healthcare,2025-08-15,In Review
+I057,S036,Remote Learning Solutions for Education,Agriculture,2025-09-09,Rejected
+I058,S009,AI-enabled Personal Assistant for the Elderly,Sustainability,2025-04-08,In Review
+I059,S037,IoT-based Environmental Monitoring,AI/ML,2025-04-12,In Review
+I060,S017,Automated Financial Planning Tool,Agriculture,2025-06-25,Submitted
+I061,S031,AI-powered Image Recognition for Healthcare,Robotics,2024-11-08,Submitted
+I062,S032,Blockchain-based Supply Chain Management,Energy,2024-10-19,Rejected
+I063,S013,AI-powered Learning Assistant for Students,Robotics,2024-12-20,Approved
+I064,S005,IoT-enabled Smart Waste Management,Agriculture,2025-04-09,Submitted
+I065,S020,Blockchain for Healthcare Records,Robotics,2025-02-03,Submitted
+I066,S041,Predictive Analytics for Student Performance,Sustainability,2025-03-09,In Review
+I067,S028,Smart Home Automation System,Sustainability,2025-02-24,Approved
+I068,S006,Automated Carbon Footprint Tracker,Education,2025-04-07,In Review
+I069,S023,AI-based Cybersecurity for Financial Institutions,AI/ML,2025-08-25,Rejected
+I070,S039,3D-Printed Prosthetics,Energy,2025-07-15,In Review
+I071,S006,Energy-Efficient Smart Lighting System,Sustainability,2024-11-11,Submitted
+I072,S040,Blockchain-based Voting System,Energy,2025-07-23,Rejected
+I073,S038,Smart Parking System using IoT,Energy,2025-06-19,Approved
+I074,S005,AI-based Speech Therapy App,Finance,2025-10-04,In Review
+I075,S019,Sustainable Farming using IoT Sensors,Robotics,2025-07-26,In Review
+I076,S027,IoT-based Traffic Management System,Education,2025-06-27,Submitted
+I077,S039,AI-powered Personal Health Assistant,Finance,2025-04-25,Approved
+I078,S045,AI-based Automated Essay Grading System,Energy,2025-02-08,Rejected
+I079,S023,Smart Glasses for Visually Impaired,Sustainability,2024-12-20,Rejected
+I080,S028,AI-driven Medical Diagnosis Tool,Energy,2025-03-16,Rejected
+I081,S013,Predictive Maintenance for Industrial Machinery,Energy,2025-04-20,Submitted
+I082,S009,Smart Campus Solutions,AI/ML,2024-10-13,In Review
+I083,S031,Smart Wearables for Fitness Monitoring,Robotics,2025-02-12,Submitted
+I084,S028,AI-based Fraud Detection in E-commerce,Healthcare,2025-06-04,Rejected
+I085,S025,Cloud-based Collaborative Platform for Research,Robotics,2025-03-08,In Review
+I086,S022,Energy-Efficient Smart Buildings,Healthcare,2024-10-15,Submitted
+I087,S050,AI-powered Resume Screening System,Sustainability,2025-09-18,Approved
+I088,S012,Remote Learning Solutions for Education,Agriculture,2025-07-12,Submitted
+I089,S013,AI-enabled Personal Assistant for the Elderly,Robotics,2025-06-27,Rejected
+I090,S003,IoT-based Environmental Monitoring,Sustainability,2025-09-30,Submitted
+I091,S045,Automated Financial Planning Tool,Sustainability,2025-09-26,Approved
+I092,S011,AI-powered Image Recognition for Healthcare,Healthcare,2025-08-12,Rejected
+I093,S023,Blockchain-based Supply Chain Management,AI/ML,2025-08-28,Rejected
+I094,S021,AI-powered Learning Assistant for Students,Energy,2025-09-12,Approved
+I095,S009,IoT-enabled Smart Waste Management,Healthcare,2025-08-21,Approved
+I096,S002,Blockchain for Healthcare Records,Robotics,2024-12-03,Approved
+I097,S045,Predictive Analytics for Student Performance,Agriculture,2025-09-08,Submitted
+I098,S029,Smart Home Automation System,AI/ML,2025-02-18,Submitted
+I099,S045,Automated Carbon Footprint Tracker,Finance,2025-06-08,Approved
+I100,S021,AI-based Cybersecurity for Financial Institutions,Healthcare,2025-08-28,Rejected
+I101,S021,3D-Printed Prosthetics,Sustainability,2025-02-24,Submitted
+I102,S037,Energy-Efficient Smart Lighting System,Sustainability,2025-06-04,In Review
+I103,S014,Blockchain-based Voting System,AI/ML,2024-12-01,Submitted
+I104,S036,Smart Parking System using IoT,AI/ML,2025-09-01,Submitted
+I105,S025,AI-based Speech Therapy App,Agriculture,2025-09-18,Submitted
+I106,S005,Sustainable Farming using IoT Sensors,Agriculture,2025-09-01,In Review
+I107,S046,IoT-based Traffic Management System,Sustainability,2024-11-19,In Review
+I108,S002,AI-powered Personal Health Assistant,Robotics,2025-02-10,Submitted
+I109,S003,AI-based Automated Essay Grading System,Robotics,2025-01-16,Rejected
+I110,S007,Smart Glasses for Visually Impaired,Agriculture,2025-02-06,In Review
+I111,S034,AI-driven Medical Diagnosis Tool,Robotics,2025-05-17,Rejected
+I112,S029,Predictive Maintenance for Industrial Machinery,Energy,2025-04-23,Submitted
+I113,S010,Smart Campus Solutions,Agriculture,2025-10-05,In Review
+I114,S012,Smart Wearables for Fitness Monitoring,Energy,2025-08-02,Rejected
+I115,S028,AI-based Fraud Detection in E-commerce,Sustainability,2025-08-11,Approved
+I116,S032,Cloud-based Collaborative Platform for Research,Agriculture,2024-12-26,In Review
+I117,S048,Energy-Efficient Smart Buildings,Robotics,2025-01-01,Approved
+I118,S001,AI-powered Resume Screening System,Education,2025-10-07,Approved
+I119,S026,Remote Learning Solutions for Education,Sustainability,2025-03-24,In Review
+I120,S048,AI-enabled Personal Assistant for the Elderly,Education,2025-06-30,Approved

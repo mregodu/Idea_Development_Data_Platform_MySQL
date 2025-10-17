@@ -1,0 +1,51 @@
+student_id,name,department,email,year,university
+S001,William Thomas,Computer Science,WilliamThomas@techverseinstitute.edu,1,TechVerse Institute
+S002,David Williams,Data Analytics,DavidWilliams@brighttechuniversity.edu,3,BrightTech University
+S003,Linda Moore,Data Analytics,LindaMoore@techverseinstitute.edu,4,TechVerse Institute
+S004,Catherine Nelson,Mechanical,CatherineNelson@brighttechuniversity.edu,3,BrightTech University
+S005,Elizabeth Adams,Mechanical,ElizabethAdams@brighttechuniversity.edu,2,BrightTech University
+S006,Andrew Green,Computer Science,AndrewGreen@techverseinstitute.edu,3,TechVerse Institute
+S007,Robert Taylor,Mechanical,RobertTaylor@techverseinstitute.edu,2,TechVerse Institute
+S008,Deborah Perez,Mechanical,DeborahPerez@techverseinstitute.edu,4,TechVerse Institute
+S009,Betty Hall,Mechanical,BettyHall@novastatecollege.edu,3,NovaState College
+S010,Linda Moore,Mechanical,LindaMoore@novastatecollege.edu,3,NovaState College
+S011,Mary Anderson,Mechanical,MaryAnderson@brighttechuniversity.edu,2,BrightTech University
+S012,Mark Allen,Business,MarkAllen@brighttechuniversity.edu,3,BrightTech University
+S013,Betty Hall,Data Analytics,BettyHall@brighttechuniversity.edu,1,BrightTech University
+S014,Betty Hall,Data Analytics,BettyHall@novastatecollege.edu,2,NovaState College
+S015,Mark Allen,Mechanical,MarkAllen@novastatecollege.edu,4,NovaState College
+S016,Linda Moore,Electronics,LindaMoore@novastatecollege.edu,3,NovaState College
+S017,Nancy Robinson,Business,NancyRobinson@techverseinstitute.edu,4,TechVerse Institute
+S018,Betty Hall,Mechanical,BettyHall@novastatecollege.edu,3,NovaState College
+S019,James Wilson,Mechanical,JamesWilson@techverseinstitute.edu,3,TechVerse Institute
+S020,Nancy Robinson,Computer Science,NancyRobinson@techverseinstitute.edu,4,TechVerse Institute
+S021,Mark Allen,Mechanical,MarkAllen@novastatecollege.edu,3,NovaState College
+S022,John Smith,Mechanical,JohnSmith@novastatecollege.edu,3,NovaState College
+S023,Thomas Walker,Mechanical,ThomasWalker@novastatecollege.edu,1,NovaState College
+S024,David Williams,Mechanical,DavidWilliams@novastatecollege.edu,4,NovaState College
+S025,Emily Brown,Computer Science,EmilyBrown@novastatecollege.edu,1,NovaState College
+S026,James Wilson,Mechanical,JamesWilson@novastatecollege.edu,4,NovaState College
+S027,George Mitchell,Electronics,GeorgeMitchell@brighttechuniversity.edu,4,BrightTech University
+S028,David Williams,Mechanical,DavidWilliams@techverseinstitute.edu,4,TechVerse Institute
+S029,Deborah Perez,Electronics,DeborahPerez@brighttechuniversity.edu,3,BrightTech University
+S030,George Mitchell,Electronics,GeorgeMitchell@techverseinstitute.edu,1,TechVerse Institute
+S031,Helen Clark,Business,HelenClark@techverseinstitute.edu,3,TechVerse Institute
+S032,Brian Hill,Mechanical,BrianHill@techverseinstitute.edu,2,TechVerse Institute
+S033,Sandra Carter,Mechanical,SandraCarter@novastatecollege.edu,2,NovaState College
+S034,Emily Brown,Mechanical,EmilyBrown@novastatecollege.edu,2,NovaState College
+S035,Thomas Walker,Business,ThomasWalker@techverseinstitute.edu,3,TechVerse Institute
+S036,Joseph Lewis,Data Analytics,JosephLewis@brighttechuniversity.edu,4,BrightTech University
+S037,Nancy Robinson,Business,NancyRobinson@techverseinstitute.edu,1,TechVerse Institute
+S038,William Thomas,Computer Science,WilliamThomas@techverseinstitute.edu,1,TechVerse Institute
+S039,Mary Anderson,Mechanical,MaryAnderson@brighttechuniversity.edu,3,BrightTech University
+S040,Dorothy Young,Business,DorothyYoung@brighttechuniversity.edu,3,BrightTech University
+S041,Nancy Robinson,Data Analytics,NancyRobinson@novastatecollege.edu,3,NovaState College
+S042,Mark Allen,Computer Science,MarkAllen@novastatecollege.edu,2,NovaState College
+S043,James Wilson,Computer Science,JamesWilson@novastatecollege.edu,3,NovaState College
+S044,John Smith,Mechanical,JohnSmith@novastatecollege.edu,3,NovaState College
+S045,Linda Moore,Electronics,LindaMoore@techverseinstitute.edu,4,TechVerse Institute
+S046,Mark Allen,Mechanical,MarkAllen@brighttechuniversity.edu,3,BrightTech University
+S047,James Wilson,Mechanical,JamesWilson@brighttechuniversity.edu,4,BrightTech University
+S048,Mark Allen,Mechanical,MarkAllen@brighttechuniversity.edu,3,BrightTech University
+S049,Paul King,Data Analytics,PaulKing@brighttechuniversity.edu,1,BrightTech University
+S050,Barbara Scott,Business,BarbaraScott@techverseinstitute.edu,1,TechVerse Institute
